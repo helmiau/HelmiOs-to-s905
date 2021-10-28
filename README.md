@@ -1,4 +1,4 @@
-### HelmiWrt OS Repack for s905x devices
+### kiaWRT fork from HelmiWrt OS Repack for s905x devices
 
 | Chipset | Device Lists |
 | :--: | :--: |
